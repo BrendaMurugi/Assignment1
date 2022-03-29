@@ -1,8 +1,8 @@
 fun main() {
-    var name = "Brenda Murugi"
+    var name = "speria Murugi"
     println(name)
 
-    var age = 21
+    var age = 23
     println(age)
 
     var number =  "0798881101"
