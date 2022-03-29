@@ -1,5 +1,5 @@
 fun main() {
-    var name = "Brenda Murugi"
+    var name = "Caroline Nyambura"
     println(name)
 
     var age = 21
